@@ -8,10 +8,12 @@
 
 ## Commands
 
+### Modo normal
 ```
 gemini
 ```
 
+### Modo YOLO (You only live once)
 ```
 gemini --yolo
 ```
@@ -22,18 +24,21 @@ gemini --yolo
 
 ## Skills
 
+### Skill para ajudar você a refinar um problema antes de pedir pra IA
 ```
 npx skills add https://github.com/mattpocock/skills --skill grill-me
 ```
 
-```
-npx skills add https://github.com/mattpocock/ai-engineer-workshop-2026-project --skill prd-to-issues
-```
-
+### Skill para criar PRD (Product Requirements Document)
 ```
 npx skills add https://github.com/mattpocock/ai-engineer-workshop-2026-project --skill write-a-prd
 ```
 
-## Tutorials
+### Skill para converter em tarefas com fases/etapas claras
+```
+npx skills add https://github.com/mattpocock/ai-engineer-workshop-2026-project --skill prd-to-issues
+```
 
+
+## Tutorial
 - [Creating MCP Server](https://modelcontextprotocol.io/docs/develop/build-server#typescript)
