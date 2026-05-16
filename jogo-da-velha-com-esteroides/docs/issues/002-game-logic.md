@@ -8,11 +8,11 @@ Implementação do módulo `GameState` em TypeScript puro. Este módulo deve ger
 
 ## Acceptance criteria
 
-- [ ] Módulo `useGameState` (ou classe/objeto de lógica) implementado
-- [ ] Testes unitários para todas as 8 condições de vitória
-- [ ] Testes unitários para condição de empate (Velha)
-- [ ] Testes garantindo que não se pode jogar em casas ocupadas
-- [ ] Função de reset testada e funcionando
+-[x] Módulo `useGameState` (ou classe/objeto de lógica) implementado
+-[x] Testes unitários para todas as 8 condições de vitória
+-[x] Testes unitários para condição de empate (Velha)
+-[x] Testes garantindo que não se pode jogar em casas ocupadas
+-[x] Função de reset testada e funcionando
 
 ## Blocked by
 

@@ -8,10 +8,10 @@ Criação dos componentes React para visualização do tabuleiro 3x3 e integraç
 
 ## Acceptance criteria
 
-- [ ] Componente `Board` renderiza uma grade 3x3
-- [ ] Cliques nas células disparam a lógica de jogada
-- [ ] Símbolos X e O aparecem corretamente no tabuleiro
-- [ ] O tabuleiro reflete o estado real da lógica
+-[x] Componente `Board` renderiza uma grade 3x3
+-[x] Cliques nas células disparam a lógica de jogada
+-[x] Símbolos X e O aparecem corretamente no tabuleiro
+-[x] O tabuleiro reflete o estado real da lógica
 
 ## Blocked by
 
