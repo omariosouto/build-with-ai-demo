@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "demo-mcp": {
+      "command": "npm",
+      "args": [
+        "start",
+        "--prefix",
+        "/Users/mario.souto/dev/omariosouto/build-with-ai-demo/001-demo-mcp"
+      ]
+    }
+  }
+}

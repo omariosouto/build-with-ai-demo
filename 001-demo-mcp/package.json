@@ -1,0 +1,20 @@
+{
+  "name": "001-demo-mcp",
+  "version": "1.0.0",
+  "description": "A demo MCP server that answers questions from data.json",
+  "type": "module",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsx src/index.ts"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.6.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "tsx": "^4.22.0",
+    "typescript": "^5.4.5"
+  }
+}
