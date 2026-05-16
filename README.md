@@ -10,6 +10,9 @@
 
 ## Commands
 
+- Shift + Tab = Muda o modo que a IA interage com vc
+    - 
+
 ### Modo normal
 ```
 gemini
